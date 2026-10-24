@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1b3352"/>
+      <stop offset="1" stop-color="#3d7bb5"/>
+    </linearGradient>
+    <linearGradient id="pulse" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7ee8b4"/>
+      <stop offset="1" stop-color="#3fd0e0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".3" cy=".18" r=".75">
+      <stop offset="0" stop-color="#fff" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="8" y="8" width="240" height="240" rx="58" fill="url(#bg)"/>
+  <rect x="8" y="8" width="240" height="240" rx="58" fill="url(#glow)"/>
+  <g fill="none" stroke="#fff" stroke-linecap="round" opacity=".28" stroke-width="5">
+    <path d="M100 42a40 40 0 0 1 56 0"/>
+    <path d="M84 26a64 64 0 0 1 88 0"/>
+  </g>
+  <g stroke="#fff" stroke-width="17" stroke-linecap="round" fill="none">
+    <path d="M128 66 70 196"/>
+    <path d="M128 66 186 196"/>
+  </g>
+  <polyline points="78,152 104,152 117,126 134,178 147,152 178,152" fill="none" stroke="url(#pulse)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#fff">
+    <circle cx="128" cy="62" r="17"/>
+    <circle cx="70" cy="198" r="16"/>
+    <circle cx="186" cy="198" r="16"/>
+  </g>
+  <g fill="#3d7bb5">
+    <circle cx="128" cy="62" r="7"/>
+    <circle cx="70" cy="198" r="6"/>
+    <circle cx="186" cy="198" r="6"/>
+  </g>
+</svg>
