@@ -193,21 +193,21 @@ Walk / get，v1–v3；在广播模式下，本机会像 SNMP 设备一样响应
 
 ## 下载
 
-版本 2.17.2 · 单个文件：下载即可运行。设置保存在一个文件中；将 `PowerAdminTool.json` 放在 exe 旁边，即可从 U 盘便携运行。
+版本 2.18.0 · 单个文件：下载即可运行。设置保存在一个文件中；将 `PowerAdminTool.json` 放在 exe 旁边，即可从 U 盘便携运行。
 
-**Windows** — `AdminsTools-2.17.2.exe · ~16 MB`
+**Windows** — `AdminsTools-2.18.0.exe · ~16 MB`
 
 - Windows 10 / 11, 64 bit
 - 无需安装和管理员权限
 - Ping 和 traceroute 无需驱动
 
-**macOS** — `AdminsTools-2.17.2-macos-arm64.zip · -macos-amd64.zip`
+**macOS** — `AdminsTools-2.18.0-macos-arm64.zip · -macos-amd64.zip`
 
 - Apple Silicon (M1 及更新) 或 Intel
 - 未签名: 首次打开时右键 › 打开
 - macOS 上不支持抓包
 
-**Linux** — `adminstools-2.17.2-linux-amd64 · ~15 MB`
+**Linux** — `adminstools-2.18.0-linux-amd64 · ~15 MB`
 
 - x86-64，单个二进制文件
 - `-listen 0.0.0.0:8090` 可在跳板机上通过浏览器使用
