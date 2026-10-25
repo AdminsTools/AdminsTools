@@ -1,4 +1,4 @@
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="../../assets/wordmark-dark.png"><img src="../../assets/wordmark-light.png" width="420" alt="AdminsTools"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/wordmark-dark.png"><img src="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/wordmark-light.png" width="420" alt="AdminsTools"></picture></p>
 
 <p align="center"><a href="../../README.md">Türkçe</a> &nbsp;·&nbsp; <a href="../../docs/en/README.md">English</a> &nbsp;·&nbsp; <b>Deutsch</b> &nbsp;·&nbsp; <a href="../../docs/ru/README.md">Русский</a> &nbsp;·&nbsp; <a href="../../docs/zh/README.md">中文</a></p>
 
@@ -14,31 +14,31 @@
 
 Ein /24 in einer Runde: Latenz, ARP, Verlust, Name und MAC-Hersteller; 5 Pings oder dauerhaft an eine Adresse.
 
-![Ping-Sweep](../../assets/screens/de/ping.svg)
+![Ping-Sweep](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/ping.svg)
 
 #### Portscan
 
 Fertige Profile, Dienst-Banner, UDP-Sonden; riskante Ports markiert.
 
-![Portscan](../../assets/screens/de/port.svg)
+![Portscan](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/port.svg)
 
 #### IP-Identität
 
 „Was ist diese IP?“ Ping, Ports, SNMP, Web und MAC ergeben eine begründete, bewertete Schätzung.
 
-![IP-Identität](../../assets/screens/de/ident.svg)
+![IP-Identität](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/ident.svg)
 
 #### MAC-Hersteller
 
 MAC → Hersteller in jedem Format; bei einer IP wird die MAC ermittelt. Virtuelle und lokal verwaltete Adressen markiert.
 
-![MAC-Hersteller](../../assets/screens/de/mac.svg)
+![MAC-Hersteller](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/mac.svg)
 
 #### Nachbarschaft (LLDP/CDP)
 
 Erkennung von Switch zu Switch; Portnamen, LAG, sieben Layouts, SVG / PNG / PDF.
 
-![Nachbarschaft (LLDP/CDP)](../../assets/screens/de/nbr.svg)
+![Nachbarschaft (LLDP/CDP)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/nbr.svg)
 
 ### Pfad und Geschwindigkeit
 
@@ -46,31 +46,31 @@ Erkennung von Switch zu Switch; Portnamen, LAG, sieben Layouts, SVG / PNG / PDF.
 
 Netzwerkspuren, Verlust und Latenz pro Hop, Weltkarte.
 
-![Traceroute / MTR](../../assets/screens/de/trace.svg)
+![Traceroute / MTR](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/trace.svg)
 
 #### Geschwindigkeitstest
 
 Download-/Upload-Messung ins Internet oder zum eigenen Server.
 
-![Geschwindigkeitstest](../../assets/screens/de/speed.svg)
+![Geschwindigkeitstest](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/speed.svg)
 
 #### Wi-Fi
 
 Signalmesser, Kanalansicht und Abdeckungskarte.
 
-![Wi-Fi](../../assets/screens/de/wifi.svg)
+![Wi-Fi](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/wifi.svg)
 
 #### Datei-Downloader
 
 Schnelle Downloads über parallele Verbindungen, direkt in den Downloads-Ordner; SHA-256-Prüfung.
 
-![Datei-Downloader](../../assets/screens/de/download.svg)
+![Datei-Downloader](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/download.svg)
 
 #### MTU-Ermittlung
 
 Größtes Paket, das unfragmentiert durchkommt; Erkennung von Black Holes.
 
-![MTU-Ermittlung](../../assets/screens/de/mtu.svg)
+![MTU-Ermittlung](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/mtu.svg)
 
 ### DNS und Adresse
 
@@ -78,19 +78,19 @@ Größtes Paket, das unfragmentiert durchkommt; Erkennung von Black Holes.
 
 Eintragstypen, mehrere Server nebeneinander vergleichen, DNSSEC, AXFR.
 
-![DNS-Abfrage](../../assets/screens/de/dns.svg)
+![DNS-Abfrage](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/dns.svg)
 
 #### Whois
 
 RDAP und klassisches Whois: Registrar, Kontakte, AS, Standort, Rohdaten.
 
-![Whois](../../assets/screens/de/whois.svg)
+![Whois](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/whois.svg)
 
 #### Meine öffentliche IP
 
 Ermittelt öffentliche Adresse, Provider und DNS-Umleitung.
 
-![Meine öffentliche IP](../../assets/screens/de/myip.svg)
+![Meine öffentliche IP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/myip.svg)
 
 ### Web
 
@@ -98,31 +98,31 @@ Ermittelt öffentliche Adresse, Provider und DNS-Umleitung.
 
 Statuscode, Weiterleitungen, Sicherheitsheader und Produkterkennung.
 
-![HTTP/HTTPS-Übersicht](../../assets/screens/de/http.svg)
+![HTTP/HTTPS-Übersicht](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/http.svg)
 
 #### HTTP-Anfrage (curl)
 
 DNS, TCP, TLS und erstes Byte einzeln; auch Seiten, die JavaScript benötigen.
 
-![HTTP-Anfrage (curl)](../../assets/screens/de/curl.svg)
+![HTTP-Anfrage (curl)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/curl.svg)
 
 #### API-Client
 
 Wie Postman, aber schlicht: Sammlungen, Variablen, Identität.
 
-![API-Client](../../assets/screens/de/api.svg)
+![API-Client](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/api.svg)
 
 #### Zertifikat
 
 Kette, Ablaufdatum, Vertrauen und TLS-Versionen.
 
-![Zertifikat](../../assets/screens/de/cert.svg)
+![Zertifikat](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/cert.svg)
 
 #### SSL-Prüfung
 
 Eine Note von A+ … F nahe an den SSL-Labs-Kriterien, mit Begründung.
 
-![SSL-Prüfung](../../assets/screens/de/ssl.svg)
+![SSL-Prüfung](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/ssl.svg)
 
 ### Verwaltung
 
@@ -130,43 +130,43 @@ Eine Note von A+ … F nahe an den SSL-Labs-Kriterien, mit Begründung.
 
 Befehle auf Hunderten von Rechnern per SSH / WinRM; Vorlagen, mehrere Identitäten.
 
-![Stapelverarbeitung](../../assets/screens/de/exec.svg)
+![Stapelverarbeitung](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/exec.svg)
 
 #### Mail
 
 SMTP, MX + SPF / DMARC, IMAP / POP3, Testnachricht und Relay-Test.
 
-![Mail](../../assets/screens/de/mail.svg)
+![Mail](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/mail.svg)
 
 #### SNMP
 
 Walk / Get, v1–v3; im Broadcast-Modus antwortet der Computer wie ein SNMP-Gerät.
 
-![SNMP](../../assets/screens/de/snmp.svg)
+![SNMP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/snmp.svg)
 
 #### Syslog
 
 Nachricht senden oder als Server eingehende Nachrichten empfangen.
 
-![Syslog](../../assets/screens/de/syslog.svg)
+![Syslog](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/syslog.svg)
 
 #### Port-Nachricht / Lauschen
 
 Nachricht an einen TCP- / UDP-Port senden und die Antwort oder eingehenden Verkehr beobachten.
 
-![Port-Nachricht / Lauschen](../../assets/screens/de/send.svg)
+![Port-Nachricht / Lauschen](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/send.svg)
 
 #### Paketaufzeichnung
 
 Leichte Aufzeichnung ohne Npcap, Protokollübersicht und pcap-Speicherung.
 
-![Paketaufzeichnung](../../assets/screens/de/capture.svg)
+![Paketaufzeichnung](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/capture.svg)
 
 #### Wake-on-LAN
 
 Per Magic Packet aufwecken, und den Start per Ping verfolgen.
 
-![Wake-on-LAN](../../assets/screens/de/wol.svg)
+![Wake-on-LAN](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/wol.svg)
 
 ### Konto und Info
 
@@ -174,13 +174,13 @@ Per Magic Packet aufwecken, und den Start per Ping verfolgen.
 
 Netzwerk, Broadcast, nutzbarer Bereich, Maske und Aufteilung.
 
-![Subnetz berechnen](../../assets/screens/de/subnet.svg)
+![Subnetz berechnen](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/subnet.svg)
 
 #### Dieser Computer
 
 Schnittstellen, adresler, Gateway, DNS und VPN.
 
-![Dieser Computer](../../assets/screens/de/local.svg)
+![Dieser Computer](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/de/local.svg)
 
 ## Neden AdminsTools
 

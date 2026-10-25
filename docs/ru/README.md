@@ -1,4 +1,4 @@
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="../../assets/wordmark-dark.png"><img src="../../assets/wordmark-light.png" width="420" alt="AdminsTools"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/wordmark-dark.png"><img src="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/wordmark-light.png" width="420" alt="AdminsTools"></picture></p>
 
 <p align="center"><a href="../../README.md">Türkçe</a> &nbsp;·&nbsp; <a href="../../docs/en/README.md">English</a> &nbsp;·&nbsp; <a href="../../docs/de/README.md">Deutsch</a> &nbsp;·&nbsp; <b>Русский</b> &nbsp;·&nbsp; <a href="../../docs/zh/README.md">中文</a></p>
 
@@ -14,31 +14,31 @@
 
 /24 за один проход: задержка, ARP, потери, имя и производитель по MAC; 5 пингов или непрерывно на один адрес.
 
-![Ping-сканирование](../../assets/screens/ru/ping.svg)
+![Ping-сканирование](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/ping.svg)
 
 #### Сканирование портов
 
 Готовые профили, баннеры служб, UDP-зонды; опасные порты отмечены.
 
-![Сканирование портов](../../assets/screens/ru/port.svg)
+![Сканирование портов](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/port.svg)
 
 #### Идентификатор IP
 
 «Что это за IP?» Ping, порты, SNMP, веб и MAC сводятся в обоснованную оценку с баллами.
 
-![Идентификатор IP](../../assets/screens/ru/ident.svg)
+![Идентификатор IP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/ident.svg)
 
 #### Производитель по MAC
 
 MAC → производитель в любом формате; по IP находится MAC. Виртуальные и локально администрируемые адреса отмечены.
 
-![Производитель по MAC](../../assets/screens/ru/mac.svg)
+![Производитель по MAC](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/mac.svg)
 
 #### Соседство (LLDP/CDP)
 
 Обнаружение от коммутатора к коммутатору; имена портов, LAG, семь раскладок, SVG / PNG / PDF.
 
-![Соседство (LLDP/CDP)](../../assets/screens/ru/nbr.svg)
+![Соседство (LLDP/CDP)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/nbr.svg)
 
 ### Маршрут и скорость
 
@@ -46,31 +46,31 @@ MAC → производитель в любом формате; по IP нах�
 
 Сетевые полосы, потери и задержка на каждом узле, карта мира.
 
-![Traceroute / MTR](../../assets/screens/ru/trace.svg)
+![Traceroute / MTR](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/trace.svg)
 
 #### Тест скорости
 
 Измерение скорости загрузки и отдачи до интернета или своего сервера.
 
-![Тест скорости](../../assets/screens/ru/speed.svg)
+![Тест скорости](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/speed.svg)
 
 #### Wi-Fi
 
 Измеритель сигнала, обзор каналов и карта покрытия.
 
-![Wi-Fi](../../assets/screens/ru/wifi.svg)
+![Wi-Fi](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/wifi.svg)
 
 #### Загрузчик файлов
 
 Быстрая загрузка в несколько потоков прямо в папку «Загрузки»; проверка SHA-256.
 
-![Загрузчик файлов](../../assets/screens/ru/download.svg)
+![Загрузчик файлов](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/download.svg)
 
 #### Определение MTU
 
 Наибольший пакет, проходящий без фрагментации; обнаружение «чёрных дыр».
 
-![Определение MTU](../../assets/screens/ru/mtu.svg)
+![Определение MTU](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/mtu.svg)
 
 ### DNS и адрес
 
@@ -78,19 +78,19 @@ MAC → производитель в любом формате; по IP нах�
 
 Типы записей, сравнение нескольких серверов рядом, DNSSEC, AXFR.
 
-![DNS-запрос](../../assets/screens/ru/dns.svg)
+![DNS-запрос](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/dns.svg)
 
 #### Whois
 
 RDAP и классический whois: регистратор, контакты, AS, местоположение, исходная запись.
 
-![Whois](../../assets/screens/ru/whois.svg)
+![Whois](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/whois.svg)
 
 #### Мой внешний IP
 
 Определение внешнего адреса, провайдера и перенаправления DNS.
 
-![Мой внешний IP](../../assets/screens/ru/myip.svg)
+![Мой внешний IP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/myip.svg)
 
 ### Web
 
@@ -98,31 +98,31 @@ RDAP и классический whois: регистратор, контакты
 
 Код состояния, перенаправления, заголовки безопасности и определение продукта.
 
-![Сводка HTTP/HTTPS](../../assets/screens/ru/http.svg)
+![Сводка HTTP/HTTPS](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/http.svg)
 
 #### HTTP-запрос (curl)
 
 DNS, TCP, TLS и первый байт по отдельности; в том числе страницы на JavaScript.
 
-![HTTP-запрос (curl)](../../assets/screens/ru/curl.svg)
+![HTTP-запрос (curl)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/curl.svg)
 
 #### API-клиент
 
 Как Postman, только проще: коллекции, переменные, учётные данные.
 
-![API-клиент](../../assets/screens/ru/api.svg)
+![API-клиент](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/api.svg)
 
 #### Сертификат
 
 Цепочка, срок действия, доверие и версии TLS.
 
-![Сертификат](../../assets/screens/ru/cert.svg)
+![Сертификат](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/cert.svg)
 
 #### Проверка SSL
 
 Оценка A+ … F, близкая к критериям SSL Labs, с причинами.
 
-![Проверка SSL](../../assets/screens/ru/ssl.svg)
+![Проверка SSL](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/ssl.svg)
 
 ### Управление
 
@@ -130,43 +130,43 @@ DNS, TCP, TLS и первый байт по отдельности; в том ч
 
 Команды на сотнях машин через SSH / WinRM; шаблоны, несколько учётных записей.
 
-![Массовая операция](../../assets/screens/ru/exec.svg)
+![Массовая операция](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/exec.svg)
 
 #### Mail
 
 SMTP, MX + SPF / DMARC, IMAP / POP3, тестовое письмо и проверка relay.
 
-![Mail](../../assets/screens/ru/mail.svg)
+![Mail](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/mail.svg)
 
 #### SNMP
 
 Walk / get, v1–v3; в режиме трансляции компьютер отвечает как SNMP-устройство.
 
-![SNMP](../../assets/screens/ru/snmp.svg)
+![SNMP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/snmp.svg)
 
 #### Syslog
 
 Отправка сообщения или работа сервером с приёмом входящих.
 
-![Syslog](../../assets/screens/ru/syslog.svg)
+![Syslog](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/syslog.svg)
 
 #### Порт: сообщение / прослушивание
 
 Отправка сообщения на порт TCP / UDP и просмотр ответа или входящих данных.
 
-![Порт: сообщение / прослушивание](../../assets/screens/ru/send.svg)
+![Порт: сообщение / прослушивание](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/send.svg)
 
 #### Захват пакетов
 
 Лёгкий захват без Npcap, сводка по протоколам и запись в pcap.
 
-![Захват пакетов](../../assets/screens/ru/capture.svg)
+![Захват пакетов](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/capture.svg)
 
 #### Wake-on-LAN
 
 Пробуждение магическим пакетом, и отслеживание включения по ping.
 
-![Wake-on-LAN](../../assets/screens/ru/wol.svg)
+![Wake-on-LAN](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/wol.svg)
 
 ### Расчёт и сведения
 
@@ -174,13 +174,13 @@ Walk / get, v1–v3; в режиме трансляции компьютер о�
 
 Сеть, широковещательный, диапазон адресов, маска и разбиение.
 
-![Расчёт подсети](../../assets/screens/ru/subnet.svg)
+![Расчёт подсети](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/subnet.svg)
 
 #### Этот компьютер
 
 Интерфейсы, adresler, шлюз, DNS и VPN.
 
-![Этот компьютер](../../assets/screens/ru/local.svg)
+![Этот компьютер](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/ru/local.svg)
 
 ## Neden AdminsTools
 
