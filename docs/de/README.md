@@ -193,21 +193,21 @@ Schnittstellen, adresler, Gateway, DNS und VPN.
 
 ## Herunterladen
 
-Version 2.20.1 · Eine Datei: herunterladen und starten. Die Einstellungen stehen in einer Datei; legen Sie `PowerAdminTool.json` neben die exe, dann läuft es portabel vom USB-Stick.
+Version 2.21.0 · Eine Datei: herunterladen und starten. Die Einstellungen stehen in einer Datei; legen Sie `PowerAdminTool.json` neben die exe, dann läuft es portabel vom USB-Stick.
 
-**Windows** — `AdminsTools-2.20.1.exe · ~16 MB`
+**Windows** — `AdminsTools-2.21.0.exe · ~16 MB`
 
 - Windows 10 / 11, 64 bit
 - Keine Installation und keine Administratorrechte nötig
 - Ping und Traceroute ohne Treiber
 
-**macOS** — `AdminsTools-2.20.1-macos-arm64.zip · -macos-amd64.zip`
+**macOS** — `AdminsTools-2.21.0-macos-arm64.zip · -macos-amd64.zip`
 
 - Apple Silicon (M1 und neuer) oder Intel
 - Nicht signiert: beim ersten Start Rechtsklick › Öffnen
 - Keine Paketaufzeichnung unter macOS
 
-**Linux** — `adminstools-2.20.1-linux-amd64 · ~15 MB`
+**Linux** — `adminstools-2.21.0-linux-amd64 · ~15 MB`
 
 - x86-64, eine einzige Binärdatei
 - `-listen 0.0.0.0:8090` für den Browserzugriff auf einem Jump-Server
