@@ -1,6 +1,4 @@
-<p align="center"><img src="../../assets/logo.svg" width="96" alt="AdminsTools"></p>
-
-<h1 align="center">AdminsTools</h1>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="../../assets/wordmark-dark.png"><img src="../../assets/wordmark-light.png" width="420" alt="AdminsTools"></picture></p>
 
 <p align="center"><a href="../../README.md">Türkçe</a> &nbsp;·&nbsp; <a href="../../docs/en/README.md">English</a> &nbsp;·&nbsp; <a href="../../docs/de/README.md">Deutsch</a> &nbsp;·&nbsp; <a href="../../docs/ru/README.md">Русский</a> &nbsp;·&nbsp; <b>中文</b></p>
 
