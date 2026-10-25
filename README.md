@@ -193,21 +193,21 @@ Arayüzler, adresler, ağ geçidi, DNS ve VPN.
 
 ## İndir
 
-Sürüm 2.21.0 · Tek dosya: indirin ve çalıştırın. Ayarlar tek bir dosyada; exe'nin yanına `PowerAdminTool.json` koyarsanız USB bellekten taşınabilir çalışır.
+Sürüm 2.22.0 · Tek dosya: indirin ve çalıştırın. Ayarlar tek bir dosyada; exe'nin yanına `PowerAdminTool.json` koyarsanız USB bellekten taşınabilir çalışır.
 
-**Windows** — `AdminsTools-2.21.0.exe · ~16 MB`
+**Windows** — `AdminsTools-2.22.0.exe · ~16 MB`
 
 - Windows 10 / 11, 64 bit
 - Kurulum ve yönetici hakkı gerekmez
 - Ping ve traceroute sürücü istemez
 
-**macOS** — `AdminsTools-2.21.0-macos-arm64.zip · -macos-amd64.zip`
+**macOS** — `AdminsTools-2.22.0-macos-arm64.zip · -macos-amd64.zip`
 
 - Apple Silicon (M1 ve sonrası) ya da Intel
 - İmzasız: ilk açılışta sağ tık › Aç
 - Paket yakalama macOS'ta yok
 
-**Linux** — `adminstools-2.21.0-linux-amd64 · ~15 MB`
+**Linux** — `adminstools-2.22.0-linux-amd64 · ~15 MB`
 
 - x86-64, tek ikili dosya
 - `-listen 0.0.0.0:8090` ile atlama sunucusunda tarayıcıdan
