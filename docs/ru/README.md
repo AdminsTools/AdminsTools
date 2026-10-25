@@ -1,10 +1,10 @@
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/wordmark-dark.png"><img src="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/wordmark-light.png" width="420" alt="AdminsTools"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/wordmark-dark.png"><img src="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/wordmark-light.png" width="420" alt="AdminsTools"></picture></p>
 
 <p align="center"><a href="../../README.md">Türkçe</a> &nbsp;·&nbsp; <a href="../../docs/en/README.md">English</a> &nbsp;·&nbsp; <a href="../../docs/de/README.md">Deutsch</a> &nbsp;·&nbsp; <b>Русский</b> &nbsp;·&nbsp; <a href="../../docs/zh/README.md">中文</a></p>
 
 <p align="center">Набор инструментов сетевого и системного администратора в одном окне: обнаружение, маршрут и скорость, DNS, веб, почта, удалённое управление — без установки, драйверов и учётных записей.</p>
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/ping.svg" width="760" alt="Ping-сканирование"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/ping.svg" width="760" alt="Ping-сканирование"></p>
 
 <p align="center">✓ Один файл, без установки &nbsp;·&nbsp; ✓ Не нужны права администратора &nbsp;·&nbsp; ✓ Windows · macOS · Linux &nbsp;·&nbsp; ✓ Данные остаются на компьютере</p>
 
@@ -34,7 +34,7 @@
 
 /24 за один проход: задержка, ARP, потери, имя и производитель по MAC; 5 пингов или непрерывно на один адрес.
 
-![Ping-сканирование](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/ping.svg)
+![Ping-сканирование](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/ping.svg)
 
 <a id="t-port"></a>
 
@@ -42,7 +42,7 @@
 
 Готовые профили, баннеры служб, UDP-зонды; опасные порты отмечены.
 
-![Сканирование портов](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/port.svg)
+![Сканирование портов](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/port.svg)
 
 <a id="t-ident"></a>
 
@@ -50,7 +50,7 @@
 
 «Что это за IP?» Ping, порты, SNMP, веб и MAC сводятся в обоснованную оценку с баллами.
 
-![Идентификатор IP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/ident.svg)
+![Идентификатор IP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/ident.svg)
 
 <a id="t-mac"></a>
 
@@ -58,7 +58,7 @@
 
 MAC → производитель в любом формате; по IP находится MAC. Виртуальные и локально администрируемые адреса отмечены.
 
-![Производитель по MAC](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/mac.svg)
+![Производитель по MAC](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/mac.svg)
 
 <a id="t-nbr"></a>
 
@@ -66,7 +66,7 @@ MAC → производитель в любом формате; по IP нах�
 
 Обнаружение от коммутатора к коммутатору; имена портов, LAG, семь раскладок, SVG / PNG / PDF.
 
-![Соседство (LLDP/CDP)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/nbr.svg)
+![Соседство (LLDP/CDP)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/nbr.svg)
 
 ### Маршрут и скорость
 
@@ -76,7 +76,7 @@ MAC → производитель в любом формате; по IP нах�
 
 Сетевые полосы, потери и задержка на каждом узле, карта мира.
 
-![Traceroute / MTR](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/trace.svg)
+![Traceroute / MTR](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/trace.svg)
 
 <a id="t-speed"></a>
 
@@ -84,7 +84,7 @@ MAC → производитель в любом формате; по IP нах�
 
 Измерение скорости загрузки и отдачи до интернета или своего сервера.
 
-![Тест скорости](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/speed.svg)
+![Тест скорости](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/speed.svg)
 
 <a id="t-wifi"></a>
 
@@ -92,7 +92,7 @@ MAC → производитель в любом формате; по IP нах�
 
 Измеритель сигнала, обзор каналов и карта покрытия.
 
-![Wi-Fi](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/wifi.svg)
+![Wi-Fi](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/wifi.svg)
 
 <a id="t-download"></a>
 
@@ -100,7 +100,7 @@ MAC → производитель в любом формате; по IP нах�
 
 Быстрая загрузка в несколько потоков прямо в папку «Загрузки»; проверка SHA-256.
 
-![Загрузчик файлов](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/download.svg)
+![Загрузчик файлов](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/download.svg)
 
 <a id="t-mtu"></a>
 
@@ -108,7 +108,7 @@ MAC → производитель в любом формате; по IP нах�
 
 Наибольший пакет, проходящий без фрагментации; обнаружение «чёрных дыр».
 
-![Определение MTU](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/mtu.svg)
+![Определение MTU](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/mtu.svg)
 
 ### DNS и адрес
 
@@ -118,7 +118,7 @@ MAC → производитель в любом формате; по IP нах�
 
 Типы записей, сравнение нескольких серверов рядом, DNSSEC, AXFR.
 
-![DNS-запрос](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/dns.svg)
+![DNS-запрос](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/dns.svg)
 
 <a id="t-whois"></a>
 
@@ -126,7 +126,7 @@ MAC → производитель в любом формате; по IP нах�
 
 RDAP и классический whois: регистратор, контакты, AS, местоположение, исходная запись.
 
-![Whois](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/whois.svg)
+![Whois](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/whois.svg)
 
 <a id="t-myip"></a>
 
@@ -134,7 +134,7 @@ RDAP и классический whois: регистратор, контакты
 
 Определение внешнего адреса, провайдера и перенаправления DNS.
 
-![Мой внешний IP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/myip.svg)
+![Мой внешний IP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/myip.svg)
 
 ### Web
 
@@ -144,7 +144,7 @@ RDAP и классический whois: регистратор, контакты
 
 Код состояния, перенаправления, заголовки безопасности и определение продукта.
 
-![Сводка HTTP/HTTPS](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/http.svg)
+![Сводка HTTP/HTTPS](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/http.svg)
 
 <a id="t-curl"></a>
 
@@ -152,7 +152,7 @@ RDAP и классический whois: регистратор, контакты
 
 DNS, TCP, TLS и первый байт по отдельности; в том числе страницы на JavaScript.
 
-![HTTP-запрос (curl)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/curl.svg)
+![HTTP-запрос (curl)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/curl.svg)
 
 <a id="t-api"></a>
 
@@ -160,7 +160,7 @@ DNS, TCP, TLS и первый байт по отдельности; в том ч
 
 Как Postman, только проще: коллекции, переменные, учётные данные.
 
-![API-клиент](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/api.svg)
+![API-клиент](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/api.svg)
 
 <a id="t-cert"></a>
 
@@ -168,7 +168,7 @@ DNS, TCP, TLS и первый байт по отдельности; в том ч
 
 Цепочка, срок действия, доверие и версии TLS.
 
-![Сертификат](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/cert.svg)
+![Сертификат](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/cert.svg)
 
 <a id="t-ssl"></a>
 
@@ -176,7 +176,7 @@ DNS, TCP, TLS и первый байт по отдельности; в том ч
 
 Оценка A+ … F, близкая к критериям SSL Labs, с причинами.
 
-![Проверка SSL](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/ssl.svg)
+![Проверка SSL](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/ssl.svg)
 
 ### Управление
 
@@ -186,7 +186,7 @@ DNS, TCP, TLS и первый байт по отдельности; в том ч
 
 Команды на сотнях машин через SSH / WinRM; шаблоны, несколько учётных записей.
 
-![Массовая операция](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/exec.svg)
+![Массовая операция](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/exec.svg)
 
 <a id="t-mail"></a>
 
@@ -194,7 +194,7 @@ DNS, TCP, TLS и первый байт по отдельности; в том ч
 
 SMTP, MX + SPF / DMARC, IMAP / POP3, тестовое письмо и проверка relay.
 
-![Mail](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/mail.svg)
+![Mail](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/mail.svg)
 
 <a id="t-snmp"></a>
 
@@ -202,7 +202,7 @@ SMTP, MX + SPF / DMARC, IMAP / POP3, тестовое письмо и прове
 
 Walk / get, v1–v3; в режиме трансляции компьютер отвечает как SNMP-устройство.
 
-![SNMP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/snmp.svg)
+![SNMP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/snmp.svg)
 
 <a id="t-syslog"></a>
 
@@ -210,7 +210,7 @@ Walk / get, v1–v3; в режиме трансляции компьютер о�
 
 Отправка сообщения или работа сервером с приёмом входящих.
 
-![Syslog](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/syslog.svg)
+![Syslog](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/syslog.svg)
 
 <a id="t-send"></a>
 
@@ -218,7 +218,7 @@ Walk / get, v1–v3; в режиме трансляции компьютер о�
 
 Отправка сообщения на порт TCP / UDP и просмотр ответа или входящих данных.
 
-![Порт: сообщение / прослушивание](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/send.svg)
+![Порт: сообщение / прослушивание](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/send.svg)
 
 <a id="t-capture"></a>
 
@@ -226,7 +226,7 @@ Walk / get, v1–v3; в режиме трансляции компьютер о�
 
 Лёгкий захват без Npcap, сводка по протоколам и запись в pcap.
 
-![Захват пакетов](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/capture.svg)
+![Захват пакетов](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/capture.svg)
 
 <a id="t-wol"></a>
 
@@ -234,7 +234,7 @@ Walk / get, v1–v3; в режиме трансляции компьютер о�
 
 Пробуждение магическим пакетом, и отслеживание включения по ping.
 
-![Wake-on-LAN](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/wol.svg)
+![Wake-on-LAN](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/wol.svg)
 
 ### Расчёт и сведения
 
@@ -244,7 +244,7 @@ Walk / get, v1–v3; в режиме трансляции компьютер о�
 
 Сеть, широковещательный, диапазон адресов, маска и разбиение.
 
-![Расчёт подсети](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/subnet.svg)
+![Расчёт подсети](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/subnet.svg)
 
 <a id="t-local"></a>
 
@@ -252,7 +252,7 @@ Walk / get, v1–v3; в режиме трансляции компьютер о�
 
 Интерфейсы, adresler, шлюз, DNS и VPN.
 
-![Этот компьютер](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@82612b9cfe03/assets/screens/ru/local.svg)
+![Этот компьютер](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/ru/local.svg)
 
 ## Neden AdminsTools
 
