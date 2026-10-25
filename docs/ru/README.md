@@ -193,21 +193,21 @@ Walk / get, v1–v3; в режиме трансляции компьютер о�
 
 ## Скачать
 
-Версия 2.19.0 · Один файл: скачайте и запустите. Настройки хранятся в одном файле; положите `PowerAdminTool.json` рядом с exe, и программа будет работать с USB-накопителя.
+Версия 2.20.0 · Один файл: скачайте и запустите. Настройки хранятся в одном файле; положите `PowerAdminTool.json` рядом с exe, и программа будет работать с USB-накопителя.
 
-**Windows** — `AdminsTools-2.19.0.exe · ~16 MB`
+**Windows** — `AdminsTools-2.20.0.exe · ~16 MB`
 
 - Windows 10 / 11, 64 bit
 - Не требует установки и прав администратора
 - Ping и traceroute без драйверов
 
-**macOS** — `AdminsTools-2.19.0-macos-arm64.zip · -macos-amd64.zip`
+**macOS** — `AdminsTools-2.20.0-macos-arm64.zip · -macos-amd64.zip`
 
 - Apple Silicon (M1 и новее) или Intel
 - Без подписи: при первом запуске правый щелчок › Открыть
 - Захват пакетов в macOS недоступен
 
-**Linux** — `adminstools-2.19.0-linux-amd64 · ~15 MB`
+**Linux** — `adminstools-2.20.0-linux-amd64 · ~15 MB`
 
 - x86-64, один исполняемый файл
 - `-listen 0.0.0.0:8090` — доступ из браузера на jump-сервере
