@@ -1,4 +1,4 @@
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/wordmark-dark.png?v=d1101e10"><img src="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/wordmark-light.png?v=70a51ed5" width="420" alt="AdminsTools"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/wordmark-dark.png"><img src="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/wordmark-light.png" width="420" alt="AdminsTools"></picture></p>
 
 <p align="center"><b>Türkçe</b> &nbsp;·&nbsp; <a href="docs/en/README.md">English</a> &nbsp;·&nbsp; <a href="docs/de/README.md">Deutsch</a> &nbsp;·&nbsp; <a href="docs/ru/README.md">Русский</a> &nbsp;·&nbsp; <a href="docs/zh/README.md">中文</a></p>
 
@@ -14,31 +14,31 @@
 
 Bir /24 tek turda: gecikme, ARP, kayıp, ad ve MAC üreticisi; tek adrese 5 ping ya da sürekli.
 
-![Ping taraması](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/ping.svg?v=7a3ddbb6)
+![Ping taraması](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/ping.svg)
 
 #### Port tarama
 
 Hazır profiller, servis karşılamaları, UDP sondaları; riskli portlar işaretli.
 
-![Port tarama](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/port.svg?v=730b89e2)
+![Port tarama](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/port.svg)
 
 #### IP kimliği
 
 "Bu IP ne?" Ping, portlar, SNMP, web ve MAC birleşip gerekçeli, puanlı tahmin.
 
-![IP kimliği](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/ident.svg?v=c030439b)
+![IP kimliği](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/ident.svg)
 
 #### MAC üretici
 
 Her biçimde MAC → üretici; IP yazılırsa MAC bulunur. Sanal ve yerel adresler işaretli.
 
-![MAC üretici](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/mac.svg?v=aa3c03bb)
+![MAC üretici](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/mac.svg)
 
 #### Komşuluk (LLDP/CDP)
 
 Switch'ten switch'e keşif; port adları, LAG, yedi yerleşim, SVG / PNG / PDF.
 
-![Komşuluk (LLDP/CDP)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/nbr.svg?v=191a3efc)
+![Komşuluk (LLDP/CDP)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/nbr.svg)
 
 ### Yol ve hız
 
@@ -46,31 +46,31 @@ Switch'ten switch'e keşif; port adları, LAG, yedi yerleşim, SVG / PNG / PDF.
 
 Ağ şeritleri, her atlamada kayıp ve gecikme, dünya haritası.
 
-![Traceroute / MTR](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/trace.svg?v=cc0bf7c7)
+![Traceroute / MTR](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/trace.svg)
 
 #### Hız testi
 
 İnternete ya da kendi sunucunuza indirme / yükleme ölçümü.
 
-![Hız testi](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/speed.svg?v=7809cfc1)
+![Hız testi](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/speed.svg)
 
 #### Wi-Fi
 
 Sinyal ölçer, kanal görünümü ve kapsama haritası.
 
-![Wi-Fi](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/wifi.svg?v=d4fccff6)
+![Wi-Fi](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/wifi.svg)
 
 #### Dosya indirici
 
 Paralel bağlantılı hızlı indirme, doğrudan İndirilenler klasörüne; SHA-256 doğrulama.
 
-![Dosya indirici](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/download.svg?v=bee3105e)
+![Dosya indirici](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/download.svg)
 
 #### MTU bulma
 
 Parçalanmadan geçen en büyük paket; kara delik tespiti.
 
-![MTU bulma](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/mtu.svg?v=a54755aa)
+![MTU bulma](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/mtu.svg)
 
 ### DNS ve adres
 
@@ -78,19 +78,19 @@ Parçalanmadan geçen en büyük paket; kara delik tespiti.
 
 Kayıt türleri, birden çok sunucuyu yan yana karşılaştırma, DNSSEC, AXFR.
 
-![DNS sorgu](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/dns.svg?v=35e46e6e)
+![DNS sorgu](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/dns.svg)
 
 #### Whois
 
 RDAP ve klasik whois: kayıt şirketi, kişiler, AS, konum, ham kayıt.
 
-![Whois](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/whois.svg?v=b5956fa3)
+![Whois](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/whois.svg)
 
 #### Genel IP'm
 
 Genel adres, servis sağlayıcı ve DNS yönlendirmesinin tespiti.
 
-![Genel IP'm](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/myip.svg?v=a60e7ec2)
+![Genel IP'm](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/myip.svg)
 
 ### Web
 
@@ -98,31 +98,31 @@ Genel adres, servis sağlayıcı ve DNS yönlendirmesinin tespiti.
 
 Durum kodu, yönlendirme, güvenlik başlıkları ve ürün tahmini.
 
-![HTTP/HTTPS özeti](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/http.svg?v=998c2e80)
+![HTTP/HTTPS özeti](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/http.svg)
 
 #### HTTP istek (curl)
 
 DNS, TCP, TLS, ilk bayt ayrı ayrı; JavaScript ile çalışan sayfalar da.
 
-![HTTP istek (curl)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/curl.svg?v=8b71bbb0)
+![HTTP istek (curl)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/curl.svg)
 
 #### API istemcisi
 
 Postman gibi, ama sade: koleksiyonlar, değişkenler, kimlik.
 
-![API istemcisi](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/api.svg?v=fc787623)
+![API istemcisi](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/api.svg)
 
 #### Sertifika
 
 Zincir, bitiş tarihi, güven ve TLS sürümleri.
 
-![Sertifika](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/cert.svg?v=06629619)
+![Sertifika](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/cert.svg)
 
 #### SSL denetimi
 
 SSL Labs ölçütlerine yakın A+ … F notu ve nedenleri.
 
-![SSL denetimi](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/ssl.svg?v=1ee2103e)
+![SSL denetimi](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/ssl.svg)
 
 ### Yönetim
 
@@ -130,43 +130,43 @@ SSL Labs ölçütlerine yakın A+ … F notu ve nedenleri.
 
 SSH / WinRM ile yüzlerce makinede komut; şablonlar, birden çok kimlik.
 
-![Toplu işlem](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/exec.svg?v=eb202fc1)
+![Toplu işlem](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/exec.svg)
 
 #### Mail
 
 SMTP, MX + SPF / DMARC, IMAP / POP3, deneme iletisi ve relay testi.
 
-![Mail](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/mail.svg?v=5b56b230)
+![Mail](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/mail.svg)
 
 #### SNMP
 
 Walk / get, v1–v3; yayın kipinde bilgisayar bir SNMP cihazı gibi yanıt verir.
 
-![SNMP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/snmp.svg?v=fc80bd26)
+![SNMP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/snmp.svg)
 
 #### Syslog
 
 İleti gönder ya da sunucu olup gelenleri dinle.
 
-![Syslog](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/syslog.svg?v=d3b8697d)
+![Syslog](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/syslog.svg)
 
 #### Port mesaj / dinle
 
 TCP / UDP portuna mesaj gönder, yanıtı ya da gelenleri izle.
 
-![Port mesaj / dinle](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/send.svg?v=e8d8eae0)
+![Port mesaj / dinle](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/send.svg)
 
 #### Paket yakalama
 
 Npcap'siz hafif yakalama, protokol özeti ve pcap kaydı.
 
-![Paket yakalama](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/capture.svg?v=a03778c5)
+![Paket yakalama](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/capture.svg)
 
 #### Wake-on-LAN
 
 Sihirli paketle uyandır, açılmasını ping ile izle.
 
-![Wake-on-LAN](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/wol.svg?v=6748008b)
+![Wake-on-LAN](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/wol.svg)
 
 ### Hesap ve bilgi
 
@@ -174,13 +174,13 @@ Sihirli paketle uyandır, açılmasını ping ile izle.
 
 Ağ, yayın, kullanılabilir aralık, maske ve bölme.
 
-![Alt ağ hesap](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/subnet.svg?v=2224a67f)
+![Alt ağ hesap](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/subnet.svg)
 
 #### Bu bilgisayar
 
 Arayüzler, adresler, ağ geçidi, DNS ve VPN.
 
-![Bu bilgisayar](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/tr/local.svg?v=545b2ff0)
+![Bu bilgisayar](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/tr/local.svg)
 
 ## Neden AdminsTools
 

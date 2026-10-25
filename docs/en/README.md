@@ -1,4 +1,4 @@
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/wordmark-dark.png?v=d1101e10"><img src="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/wordmark-light.png?v=70a51ed5" width="420" alt="AdminsTools"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/wordmark-dark.png"><img src="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/wordmark-light.png" width="420" alt="AdminsTools"></picture></p>
 
 <p align="center"><a href="../../README.md">Türkçe</a> &nbsp;·&nbsp; <b>English</b> &nbsp;·&nbsp; <a href="../../docs/de/README.md">Deutsch</a> &nbsp;·&nbsp; <a href="../../docs/ru/README.md">Русский</a> &nbsp;·&nbsp; <a href="../../docs/zh/README.md">中文</a></p>
 
@@ -14,31 +14,31 @@
 
 A /24 in one round: latency, ARP, loss, name and MAC vendor; 5 pings or continuous to a single address.
 
-![Ping sweep](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/ping.svg?v=eb687ba8)
+![Ping sweep](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/ping.svg)
 
 #### Port scan
 
 Ready profiles, service banners, UDP probes; risky ports flagged.
 
-![Port scan](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/port.svg?v=41df3c6a)
+![Port scan](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/port.svg)
 
 #### IP ID
 
 "What is this IP?" Ping, ports, SNMP, web and MAC combined into a scored guess with reasons.
 
-![IP ID](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/ident.svg?v=07d3e2cc)
+![IP ID](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/ident.svg)
 
 #### MAC vendor
 
 MAC → vendor in any format; type an IP to find its MAC. Virtual and locally administered addresses flagged.
 
-![MAC vendor](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/mac.svg?v=76b71fc9)
+![MAC vendor](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/mac.svg)
 
 #### Neighbors (LLDP/CDP)
 
 Switch-to-switch discovery; port names, LAG, seven layouts, SVG / PNG / PDF.
 
-![Neighbors (LLDP/CDP)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/nbr.svg?v=d23e82f5)
+![Neighbors (LLDP/CDP)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/nbr.svg)
 
 ### Path and speed
 
@@ -46,31 +46,31 @@ Switch-to-switch discovery; port names, LAG, seven layouts, SVG / PNG / PDF.
 
 Network lanes, loss and latency at every hop, world map.
 
-![Traceroute / MTR](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/trace.svg?v=75989d18)
+![Traceroute / MTR](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/trace.svg)
 
 #### Speed test
 
 Download / upload speed to the internet or your own server.
 
-![Speed test](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/speed.svg?v=0464327c)
+![Speed test](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/speed.svg)
 
 #### Wi-Fi
 
 Signal meter, channel view and coverage map.
 
-![Wi-Fi](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/wifi.svg?v=50f4daeb)
+![Wi-Fi](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/wifi.svg)
 
 #### File downloader
 
 Fast downloads over parallel connections, straight to the Downloads folder; SHA-256 check.
 
-![File downloader](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/download.svg?v=94f4aab3)
+![File downloader](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/download.svg)
 
 #### MTU discovery
 
 Largest packet that passes without fragmenting; black hole detection.
 
-![MTU discovery](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/mtu.svg?v=2216c42f)
+![MTU discovery](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/mtu.svg)
 
 ### DNS and address
 
@@ -78,19 +78,19 @@ Largest packet that passes without fragmenting; black hole detection.
 
 Record types, several servers compared side by side, DNSSEC, AXFR.
 
-![DNS query](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/dns.svg?v=91ab7bfc)
+![DNS query](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/dns.svg)
 
 #### Whois
 
 RDAP and classic whois: registrar, contacts, AS, location, raw record.
 
-![Whois](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/whois.svg?v=29521072)
+![Whois](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/whois.svg)
 
 #### My public IP
 
 Detects your public address, provider and DNS redirection.
 
-![My public IP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/myip.svg?v=5bc1786b)
+![My public IP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/myip.svg)
 
 ### Web
 
@@ -98,31 +98,31 @@ Detects your public address, provider and DNS redirection.
 
 Status code, redirects, security headers and product guess.
 
-![HTTP/HTTPS summary](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/http.svg?v=ec3a02e4)
+![HTTP/HTTPS summary](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/http.svg)
 
 #### HTTP request (curl)
 
 DNS, TCP, TLS and first byte separately; pages that run on JavaScript too.
 
-![HTTP request (curl)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/curl.svg?v=1f7bd95b)
+![HTTP request (curl)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/curl.svg)
 
 #### API client
 
 Like Postman, but simple: collections, variables, identity.
 
-![API client](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/api.svg?v=27635548)
+![API client](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/api.svg)
 
 #### Certificate
 
 Chain, expiry date, trust and TLS versions.
 
-![Certificate](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/cert.svg?v=1760754f)
+![Certificate](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/cert.svg)
 
 #### SSL audit
 
 An A+ … F grade close to SSL Labs criteria, with reasons.
 
-![SSL audit](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/ssl.svg?v=f83cb6b2)
+![SSL audit](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/ssl.svg)
 
 ### Management
 
@@ -130,43 +130,43 @@ An A+ … F grade close to SSL Labs criteria, with reasons.
 
 Commands on hundreds of machines over SSH / WinRM; templates, multiple identities.
 
-![Bulk action](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/exec.svg?v=adc58c85)
+![Bulk action](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/exec.svg)
 
 #### Mail
 
 SMTP, MX + SPF / DMARC, IMAP / POP3, test message and relay test.
 
-![Mail](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/mail.svg?v=abc3ed58)
+![Mail](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/mail.svg)
 
 #### SNMP
 
 Walk / get, v1–v3; in broadcast mode the computer answers like an SNMP device.
 
-![SNMP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/snmp.svg?v=a6492d24)
+![SNMP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/snmp.svg)
 
 #### Syslog
 
 Send a message, or act as a server and listen for incoming ones.
 
-![Syslog](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/syslog.svg?v=591f68b8)
+![Syslog](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/syslog.svg)
 
 #### Port message / listen
 
 Send a message to a TCP / UDP port and watch the reply, or listen for incoming traffic.
 
-![Port message / listen](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/send.svg?v=f17ecf15)
+![Port message / listen](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/send.svg)
 
 #### Packet capture
 
 Lightweight capture without Npcap, protocol summary and pcap recording.
 
-![Packet capture](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/capture.svg?v=339b6ab0)
+![Packet capture](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/capture.svg)
 
 #### Wake-on-LAN
 
 Wake with a magic packet, and watch it boot with ping.
 
-![Wake-on-LAN](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/wol.svg?v=e4b7edd3)
+![Wake-on-LAN](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/wol.svg)
 
 ### Calculations and info
 
@@ -174,13 +174,13 @@ Wake with a magic packet, and watch it boot with ping.
 
 Network, broadcast, usable range, mask and splitting.
 
-![Subnet calc](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/subnet.svg?v=b7819293)
+![Subnet calc](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/subnet.svg)
 
 #### This computer
 
 Interfaces, adresler, gateway, DNS and VPN.
 
-![This computer](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@site/assets/screens/en/local.svg?v=27a7fcc3)
+![This computer](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d23753095297/assets/screens/en/local.svg)
 
 ## Neden AdminsTools
 
