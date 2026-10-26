@@ -1,14 +1,14 @@
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/wordmark-dark.png"><img src="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/wordmark-light.png" width="420" alt="AdminsTools"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/wordmark-dark.png"><img src="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/wordmark-light.png" width="420" alt="AdminsTools"></picture></p>
 
 <p align="center"><a href="../../README.md">Türkçe</a> &nbsp;·&nbsp; <b>English</b> &nbsp;·&nbsp; <a href="../../docs/de/README.md">Deutsch</a> &nbsp;·&nbsp; <a href="../../docs/ru/README.md">Русский</a> &nbsp;·&nbsp; <a href="../../docs/zh/README.md">中文</a></p>
 
 <p align="center">The network and system administrator's toolbox in a single window: discovery, path and speed, DNS, web, mail, remote management — no installation, driver or account needed.</p>
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/ping.svg" width="760" alt="Ping sweep"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/ping.svg" width="760" alt="Ping sweep"></p>
 
 <p align="center">✓ Single file, no installation &nbsp;·&nbsp; ✓ No admin rights needed &nbsp;·&nbsp; ✓ Windows · macOS · Linux &nbsp;·&nbsp; ✓ Data stays on your computer</p>
 
-<p align="center"><a href="https://github.com/AdminsTools/AdminsTools/releases/download/v1.0.0/AdminsTools-1.0.0.exe"><b>Windows</b></a> <sub>.exe · ~16 MB</sub> &nbsp;|&nbsp; <a href="https://github.com/AdminsTools/AdminsTools/releases/download/v1.0.0/AdminsTools-1.0.0-macos-arm64.zip"><b>macOS</b></a> <sub>Apple Silicon</sub> &nbsp;|&nbsp; <a href="https://github.com/AdminsTools/AdminsTools/releases/download/v1.0.0/AdminsTools-1.0.0-macos-amd64.zip"><b>macOS</b></a> <sub>Intel</sub> &nbsp;|&nbsp; <a href="https://github.com/AdminsTools/AdminsTools/releases/download/v1.0.0/adminstools-1.0.0-linux-amd64"><b>Linux</b></a> <sub>amd64</sub></p>
+<p align="center"><a href="https://github.com/AdminsTools/AdminsTools/releases/download/v1.0.0/AdminsTools-1.0.0.exe"><b>Windows</b></a> <sub>.exe · ~16 MB</sub> &nbsp;|&nbsp; <a href="https://github.com/AdminsTools/AdminsTools/releases/download/v1.0.0/AdminsTools-1.0.0-macos-arm64.dmg"><b>macOS</b></a> <sub>Apple Silicon</sub> &nbsp;|&nbsp; <a href="https://github.com/AdminsTools/AdminsTools/releases/download/v1.0.0/AdminsTools-1.0.0-macos-amd64.dmg"><b>macOS</b></a> <sub>Intel</sub> &nbsp;|&nbsp; <a href="https://github.com/AdminsTools/AdminsTools/releases/download/v1.0.0/adminstools-1.0.0-linux-amd64"><b>Linux</b></a> <sub>amd64</sub></p>
 
 | **27** | **1** | **256** | **5** | **9** |
 |:---:|:---:|:---:|:---:|:---:|
@@ -34,7 +34,7 @@
 
 A /24 in one round: latency, ARP, loss, name and MAC vendor; 5 pings or continuous to a single address.
 
-![Ping sweep](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/ping.svg)
+![Ping sweep](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/ping.svg)
 
 <a id="t-port"></a>
 
@@ -42,7 +42,7 @@ A /24 in one round: latency, ARP, loss, name and MAC vendor; 5 pings or continuo
 
 Ready profiles, service banners, UDP probes; risky ports flagged.
 
-![Port scan](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/port.svg)
+![Port scan](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/port.svg)
 
 <a id="t-ident"></a>
 
@@ -50,7 +50,7 @@ Ready profiles, service banners, UDP probes; risky ports flagged.
 
 "What is this IP?" Ping, ports, SNMP, web and MAC combined into a scored guess with reasons.
 
-![IP ID](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/ident.svg)
+![IP ID](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/ident.svg)
 
 <a id="t-mac"></a>
 
@@ -58,7 +58,7 @@ Ready profiles, service banners, UDP probes; risky ports flagged.
 
 MAC → vendor in any format; type an IP to find its MAC. Virtual and locally administered addresses flagged.
 
-![MAC vendor](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/mac.svg)
+![MAC vendor](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/mac.svg)
 
 <a id="t-nbr"></a>
 
@@ -66,7 +66,7 @@ MAC → vendor in any format; type an IP to find its MAC. Virtual and locally ad
 
 Switch-to-switch discovery; port names, LAG, seven layouts, SVG / PNG / PDF.
 
-![Neighbors (LLDP/CDP)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/nbr.svg)
+![Neighbors (LLDP/CDP)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/nbr.svg)
 
 ### Path and speed
 
@@ -76,7 +76,7 @@ Switch-to-switch discovery; port names, LAG, seven layouts, SVG / PNG / PDF.
 
 Network lanes, loss and latency at every hop, world map.
 
-![Traceroute / MTR](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/trace.svg)
+![Traceroute / MTR](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/trace.svg)
 
 <a id="t-speed"></a>
 
@@ -84,7 +84,7 @@ Network lanes, loss and latency at every hop, world map.
 
 Download / upload speed to the internet or your own server.
 
-![Speed test](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/speed.svg)
+![Speed test](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/speed.svg)
 
 <a id="t-wifi"></a>
 
@@ -92,7 +92,7 @@ Download / upload speed to the internet or your own server.
 
 Signal meter, channel view and coverage map.
 
-![Wi-Fi](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/wifi.svg)
+![Wi-Fi](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/wifi.svg)
 
 <a id="t-download"></a>
 
@@ -100,7 +100,7 @@ Signal meter, channel view and coverage map.
 
 Fast downloads over parallel connections, straight to the Downloads folder; SHA-256 check.
 
-![File downloader](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/download.svg)
+![File downloader](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/download.svg)
 
 <a id="t-mtu"></a>
 
@@ -108,7 +108,7 @@ Fast downloads over parallel connections, straight to the Downloads folder; SHA-
 
 Largest packet that passes without fragmenting; black hole detection.
 
-![MTU discovery](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/mtu.svg)
+![MTU discovery](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/mtu.svg)
 
 ### DNS and address
 
@@ -118,7 +118,7 @@ Largest packet that passes without fragmenting; black hole detection.
 
 Record types, several servers compared side by side, DNSSEC, AXFR.
 
-![DNS query](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/dns.svg)
+![DNS query](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/dns.svg)
 
 <a id="t-whois"></a>
 
@@ -126,7 +126,7 @@ Record types, several servers compared side by side, DNSSEC, AXFR.
 
 RDAP and classic whois: registrar, contacts, AS, location, raw record.
 
-![Whois](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/whois.svg)
+![Whois](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/whois.svg)
 
 <a id="t-myip"></a>
 
@@ -134,7 +134,7 @@ RDAP and classic whois: registrar, contacts, AS, location, raw record.
 
 Detects your public address, provider and DNS redirection.
 
-![My public IP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/myip.svg)
+![My public IP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/myip.svg)
 
 ### Web
 
@@ -144,7 +144,7 @@ Detects your public address, provider and DNS redirection.
 
 Status code, redirects, security headers and product guess.
 
-![HTTP/HTTPS summary](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/http.svg)
+![HTTP/HTTPS summary](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/http.svg)
 
 <a id="t-curl"></a>
 
@@ -152,7 +152,7 @@ Status code, redirects, security headers and product guess.
 
 DNS, TCP, TLS and first byte separately; pages that run on JavaScript too.
 
-![HTTP request (curl)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/curl.svg)
+![HTTP request (curl)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/curl.svg)
 
 <a id="t-api"></a>
 
@@ -160,7 +160,7 @@ DNS, TCP, TLS and first byte separately; pages that run on JavaScript too.
 
 Like Postman, but simple: collections, variables, identity.
 
-![API client](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/api.svg)
+![API client](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/api.svg)
 
 <a id="t-cert"></a>
 
@@ -168,7 +168,7 @@ Like Postman, but simple: collections, variables, identity.
 
 Chain, expiry date, trust and TLS versions.
 
-![Certificate](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/cert.svg)
+![Certificate](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/cert.svg)
 
 <a id="t-ssl"></a>
 
@@ -176,7 +176,7 @@ Chain, expiry date, trust and TLS versions.
 
 An A+ … F grade close to SSL Labs criteria, with reasons.
 
-![SSL audit](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/ssl.svg)
+![SSL audit](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/ssl.svg)
 
 ### Management
 
@@ -186,7 +186,7 @@ An A+ … F grade close to SSL Labs criteria, with reasons.
 
 Commands on hundreds of machines over SSH / WinRM; templates, multiple identities.
 
-![Bulk action](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/exec.svg)
+![Bulk action](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/exec.svg)
 
 <a id="t-mail"></a>
 
@@ -194,7 +194,7 @@ Commands on hundreds of machines over SSH / WinRM; templates, multiple identitie
 
 SMTP, MX + SPF / DMARC, IMAP / POP3, test message and relay test.
 
-![Mail](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/mail.svg)
+![Mail](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/mail.svg)
 
 <a id="t-snmp"></a>
 
@@ -202,7 +202,7 @@ SMTP, MX + SPF / DMARC, IMAP / POP3, test message and relay test.
 
 Walk / get, v1–v3; in broadcast mode the computer answers like an SNMP device.
 
-![SNMP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/snmp.svg)
+![SNMP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/snmp.svg)
 
 <a id="t-syslog"></a>
 
@@ -210,7 +210,7 @@ Walk / get, v1–v3; in broadcast mode the computer answers like an SNMP device.
 
 Send a message, or act as a server and listen for incoming ones.
 
-![Syslog](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/syslog.svg)
+![Syslog](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/syslog.svg)
 
 <a id="t-send"></a>
 
@@ -218,7 +218,7 @@ Send a message, or act as a server and listen for incoming ones.
 
 Send a message to a TCP / UDP port and watch the reply, or listen for incoming traffic.
 
-![Port message / listen](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/send.svg)
+![Port message / listen](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/send.svg)
 
 <a id="t-capture"></a>
 
@@ -226,7 +226,7 @@ Send a message to a TCP / UDP port and watch the reply, or listen for incoming t
 
 Lightweight capture without Npcap, protocol summary and pcap recording.
 
-![Packet capture](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/capture.svg)
+![Packet capture](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/capture.svg)
 
 <a id="t-wol"></a>
 
@@ -234,7 +234,7 @@ Lightweight capture without Npcap, protocol summary and pcap recording.
 
 Wake with a magic packet, and watch it boot with ping.
 
-![Wake-on-LAN](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/wol.svg)
+![Wake-on-LAN](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/wol.svg)
 
 ### Calculations and info
 
@@ -244,7 +244,7 @@ Wake with a magic packet, and watch it boot with ping.
 
 Network, broadcast, usable range, mask and splitting.
 
-![Subnet calc](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/subnet.svg)
+![Subnet calc](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/subnet.svg)
 
 <a id="t-local"></a>
 
@@ -252,7 +252,7 @@ Network, broadcast, usable range, mask and splitting.
 
 Interfaces, adresler, gateway, DNS and VPN.
 
-![This computer](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@ab732ba062e5/assets/screens/en/local.svg)
+![This computer](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/en/local.svg)
 
 ## Neden AdminsTools
 
@@ -275,13 +275,13 @@ Version 1.0.0 · A single file: download and run. Settings live in one file; put
 
 [⤓ Download for Windows](https://github.com/AdminsTools/AdminsTools/releases/download/v1.0.0/AdminsTools-1.0.0.exe)
 
-**macOS** — `AdminsTools-1.0.0-macos-arm64.zip · -macos-amd64.zip`
+**macOS** — `AdminsTools-1.0.0-macos-arm64.dmg · -macos-amd64.dmg`
 
 - Apple Silicon (M1 and later) or Intel
 - Unsigned: right-click on first launch › Open
 - No packet capture on macOS
 
-[⤓ Apple Silicon](https://github.com/AdminsTools/AdminsTools/releases/download/v1.0.0/AdminsTools-1.0.0-macos-arm64.zip) &nbsp;·&nbsp; [⤓ Intel](https://github.com/AdminsTools/AdminsTools/releases/download/v1.0.0/AdminsTools-1.0.0-macos-amd64.zip)
+[⤓ Apple Silicon](https://github.com/AdminsTools/AdminsTools/releases/download/v1.0.0/AdminsTools-1.0.0-macos-arm64.dmg) &nbsp;·&nbsp; [⤓ Intel](https://github.com/AdminsTools/AdminsTools/releases/download/v1.0.0/AdminsTools-1.0.0-macos-amd64.dmg)
 
 **Linux** — `adminstools-1.0.0-linux-amd64 · ~15 MB`
 
