@@ -1,10 +1,10 @@
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/wordmark-dark.png"><img src="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/wordmark-light.png" width="420" alt="AdminsTools"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/wordmark-dark.png"><img src="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/wordmark-light.png" width="420" alt="AdminsTools"></picture></p>
 
 <p align="center"><a href="../../README.md">Türkçe</a> &nbsp;·&nbsp; <a href="../../docs/en/README.md">English</a> &nbsp;·&nbsp; <a href="../../docs/de/README.md">Deutsch</a> &nbsp;·&nbsp; <a href="../../docs/ru/README.md">Русский</a> &nbsp;·&nbsp; <b>中文</b></p>
 
 <p align="center">网络与系统管理员的单窗口工具箱：发现、路径与速度、DNS、Web、邮件、远程管理 —— 无需安装、驱动或账户。</p>
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/ping.svg" width="760" alt="Ping 扫描"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/ping.svg" width="760" alt="Ping 扫描"></p>
 
 <p align="center">✓ 单个文件，无需安装 &nbsp;·&nbsp; ✓ 无需管理员权限 &nbsp;·&nbsp; ✓ Windows · macOS · Linux &nbsp;·&nbsp; ✓ 数据保留在本机</p>
 
@@ -34,7 +34,7 @@
 
 一轮扫完一个 /24：延迟、ARP、丢包、名称和 MAC 厂商；对单个地址 ping 5 次或持续 ping。
 
-![Ping 扫描](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/ping.svg)
+![Ping 扫描](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/ping.svg)
 
 <a id="t-port"></a>
 
@@ -42,7 +42,7 @@
 
 预设配置、服务横幅、UDP 探测；高风险端口会被标记。
 
-![端口扫描](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/port.svg)
+![端口扫描](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/port.svg)
 
 <a id="t-ident"></a>
 
@@ -50,7 +50,7 @@
 
 “这个 IP 是什么？”综合 Ping、端口、SNMP、Web 和 MAC，给出有依据的评分推测。
 
-![IP 标识](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/ident.svg)
+![IP 标识](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/ident.svg)
 
 <a id="t-mac"></a>
 
@@ -58,7 +58,7 @@
 
 任意格式的 MAC → 厂商；输入 IP 即可查出 MAC。虚拟和本地管理地址会被标记。
 
-![MAC 厂商](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/mac.svg)
+![MAC 厂商](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/mac.svg)
 
 <a id="t-nbr"></a>
 
@@ -66,7 +66,7 @@
 
 逐台交换机发现；端口名称、LAG、七种布局、SVG / PNG / PDF。
 
-![邻居 (LLDP/CDP)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/nbr.svg)
+![邻居 (LLDP/CDP)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/nbr.svg)
 
 ### 路径与速度
 
@@ -76,7 +76,7 @@
 
 网络通道、每一跳的丢包与延迟、世界地图。
 
-![Traceroute / MTR](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/trace.svg)
+![Traceroute / MTR](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/trace.svg)
 
 <a id="t-speed"></a>
 
@@ -84,7 +84,7 @@
 
 测量到互联网或自有服务器的下载 / 上传速度。
 
-![网速测试](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/speed.svg)
+![网速测试](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/speed.svg)
 
 <a id="t-wifi"></a>
 
@@ -92,7 +92,7 @@
 
 信号测量, 信道视图和覆盖图。
 
-![Wi-Fi](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/wifi.svg)
+![Wi-Fi](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/wifi.svg)
 
 <a id="t-download"></a>
 
@@ -100,7 +100,7 @@
 
 多连接并行快速下载，直接保存到下载文件夹；SHA-256 校验。
 
-![文件下载器](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/download.svg)
+![文件下载器](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/download.svg)
 
 <a id="t-mtu"></a>
 
@@ -108,7 +108,7 @@
 
 不分片可通过的最大数据包；黑洞检测。
 
-![MTU 探测](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/mtu.svg)
+![MTU 探测](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/mtu.svg)
 
 ### DNS 和地址
 
@@ -118,7 +118,7 @@
 
 记录类型、多台服务器并排对比、DNSSEC、AXFR。
 
-![DNS 查询](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/dns.svg)
+![DNS 查询](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/dns.svg)
 
 <a id="t-whois"></a>
 
@@ -126,7 +126,7 @@
 
 RDAP 和传统 whois：注册商、联系人、AS、位置、原始记录。
 
-![Whois](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/whois.svg)
+![Whois](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/whois.svg)
 
 <a id="t-myip"></a>
 
@@ -134,7 +134,7 @@ RDAP 和传统 whois：注册商、联系人、AS、位置、原始记录。
 
 检测公网地址、运营商和 DNS 重定向。
 
-![我的公网 IP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/myip.svg)
+![我的公网 IP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/myip.svg)
 
 ### Web
 
@@ -144,7 +144,7 @@ RDAP 和传统 whois：注册商、联系人、AS、位置、原始记录。
 
 状态码、重定向、安全标头和产品推测。
 
-![HTTP/HTTPS 摘要](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/http.svg)
+![HTTP/HTTPS 摘要](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/http.svg)
 
 <a id="t-curl"></a>
 
@@ -152,7 +152,7 @@ RDAP 和传统 whois：注册商、联系人、AS、位置、原始记录。
 
 分别测量 DNS、TCP、TLS 和首字节；也支持依赖 JavaScript 的页面。
 
-![HTTP 请求 (curl)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/curl.svg)
+![HTTP 请求 (curl)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/curl.svg)
 
 <a id="t-api"></a>
 
@@ -160,7 +160,7 @@ RDAP 和传统 whois：注册商、联系人、AS、位置、原始记录。
 
 类似 Postman，但更简洁：集合、变量、身份。
 
-![API 客户端](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/api.svg)
+![API 客户端](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/api.svg)
 
 <a id="t-cert"></a>
 
@@ -168,7 +168,7 @@ RDAP 和传统 whois：注册商、联系人、AS、位置、原始记录。
 
 证书链, 到期日期, 信任状态和 TLS 版本。
 
-![证书](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/cert.svg)
+![证书](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/cert.svg)
 
 <a id="t-ssl"></a>
 
@@ -176,7 +176,7 @@ RDAP 和传统 whois：注册商、联系人、AS、位置、原始记录。
 
 接近 SSL Labs 标准的 A+ … F 评级及原因。
 
-![SSL 检查](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/ssl.svg)
+![SSL 检查](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/ssl.svg)
 
 ### 管理
 
@@ -186,7 +186,7 @@ RDAP 和传统 whois：注册商、联系人、AS、位置、原始记录。
 
 通过 SSH / WinRM 在数百台机器上执行命令；支持模板和多个身份。
 
-![批量操作](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/exec.svg)
+![批量操作](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/exec.svg)
 
 <a id="t-mail"></a>
 
@@ -194,7 +194,7 @@ RDAP 和传统 whois：注册商、联系人、AS、位置、原始记录。
 
 SMTP、MX + SPF / DMARC、IMAP / POP3、测试邮件和中继测试。
 
-![Mail](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/mail.svg)
+![Mail](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/mail.svg)
 
 <a id="t-snmp"></a>
 
@@ -202,7 +202,7 @@ SMTP、MX + SPF / DMARC、IMAP / POP3、测试邮件和中继测试。
 
 Walk / get，v1–v3；在广播模式下，本机会像 SNMP 设备一样响应。
 
-![SNMP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/snmp.svg)
+![SNMP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/snmp.svg)
 
 <a id="t-syslog"></a>
 
@@ -210,7 +210,7 @@ Walk / get，v1–v3；在广播模式下，本机会像 SNMP 设备一样响应
 
 发送消息，或作为服务器监听传入消息。
 
-![Syslog](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/syslog.svg)
+![Syslog](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/syslog.svg)
 
 <a id="t-send"></a>
 
@@ -218,7 +218,7 @@ Walk / get，v1–v3；在广播模式下，本机会像 SNMP 设备一样响应
 
 向 TCP / UDP 端口发送消息并查看响应，或监听传入数据。
 
-![端口消息 / 监听](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/send.svg)
+![端口消息 / 监听](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/send.svg)
 
 <a id="t-capture"></a>
 
@@ -226,7 +226,7 @@ Walk / get，v1–v3；在广播模式下，本机会像 SNMP 设备一样响应
 
 无需 Npcap 的轻量抓包、协议摘要和 pcap 保存。
 
-![抓包](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/capture.svg)
+![抓包](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/capture.svg)
 
 <a id="t-wol"></a>
 
@@ -234,7 +234,7 @@ Walk / get，v1–v3；在广播模式下，本机会像 SNMP 设备一样响应
 
 用魔术包唤醒, 并通过 ping 监视开机。
 
-![Wake-on-LAN](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/wol.svg)
+![Wake-on-LAN](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/wol.svg)
 
 ### 计算与信息
 
@@ -244,7 +244,7 @@ Walk / get，v1–v3；在广播模式下，本机会像 SNMP 设备一样响应
 
 网络, 广播, 可用范围, 掩码和拆分。
 
-![子网计算](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/subnet.svg)
+![子网计算](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/subnet.svg)
 
 <a id="t-local"></a>
 
@@ -252,7 +252,7 @@ Walk / get，v1–v3；在广播模式下，本机会像 SNMP 设备一样响应
 
 接口, adresler, 网关, DNS 和 VPN。
 
-![本机](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/zh/local.svg)
+![本机](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/zh/local.svg)
 
 ## Neden AdminsTools
 
@@ -265,7 +265,7 @@ Walk / get，v1–v3；在广播模式下，本机会像 SNMP 设备一样响应
 
 ## 下载
 
-版本 1.0.0 · 单个文件：下载即可运行。设置保存在一个文件中；将 `PowerAdminTool.json` 放在 exe 旁边，即可从 U 盘便携运行。
+版本 1.0.0 · 单个文件：下载即可运行。设置保存在一个文件中；将 `AdminsTools.json` 放在 exe 旁边，即可从 U 盘便携运行。
 
 **Windows** — `AdminsTools-1.0.0.exe · ~16 MB`
 

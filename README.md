@@ -1,10 +1,10 @@
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/wordmark-dark.png"><img src="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/wordmark-light.png" width="420" alt="AdminsTools"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/wordmark-dark.png"><img src="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/wordmark-light.png" width="420" alt="AdminsTools"></picture></p>
 
 <p align="center"><b>Türkçe</b> &nbsp;·&nbsp; <a href="docs/en/README.md">English</a> &nbsp;·&nbsp; <a href="docs/de/README.md">Deutsch</a> &nbsp;·&nbsp; <a href="docs/ru/README.md">Русский</a> &nbsp;·&nbsp; <a href="docs/zh/README.md">中文</a></p>
 
 <p align="center">Ağ ve sistem yöneticisinin tek pencerelik araç çantası: keşif, yol ve hız, DNS, web, posta, uzaktan yönetim — kurulum, sürücü ve hesap gerektirmeden.</p>
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/ping.svg" width="760" alt="Ping taraması"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/ping.svg" width="760" alt="Ping taraması"></p>
 
 <p align="center">✓ Tek dosya, kurulum yok &nbsp;·&nbsp; ✓ Yönetici hakkı gerekmez &nbsp;·&nbsp; ✓ Windows · macOS · Linux &nbsp;·&nbsp; ✓ Veriler bilgisayarda kalır</p>
 
@@ -34,7 +34,7 @@
 
 Bir /24 tek turda: gecikme, ARP, kayıp, ad ve MAC üreticisi; tek adrese 5 ping ya da sürekli.
 
-![Ping taraması](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/ping.svg)
+![Ping taraması](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/ping.svg)
 
 <a id="t-port"></a>
 
@@ -42,7 +42,7 @@ Bir /24 tek turda: gecikme, ARP, kayıp, ad ve MAC üreticisi; tek adrese 5 ping
 
 Hazır profiller, servis karşılamaları, UDP sondaları; riskli portlar işaretli.
 
-![Port tarama](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/port.svg)
+![Port tarama](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/port.svg)
 
 <a id="t-ident"></a>
 
@@ -50,7 +50,7 @@ Hazır profiller, servis karşılamaları, UDP sondaları; riskli portlar işare
 
 "Bu IP ne?" Ping, portlar, SNMP, web ve MAC birleşip gerekçeli, puanlı tahmin.
 
-![IP kimliği](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/ident.svg)
+![IP kimliği](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/ident.svg)
 
 <a id="t-mac"></a>
 
@@ -58,7 +58,7 @@ Hazır profiller, servis karşılamaları, UDP sondaları; riskli portlar işare
 
 Her biçimde MAC → üretici; IP yazılırsa MAC bulunur. Sanal ve yerel adresler işaretli.
 
-![MAC üretici](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/mac.svg)
+![MAC üretici](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/mac.svg)
 
 <a id="t-nbr"></a>
 
@@ -66,7 +66,7 @@ Her biçimde MAC → üretici; IP yazılırsa MAC bulunur. Sanal ve yerel adresl
 
 Switch'ten switch'e keşif; port adları, LAG, yedi yerleşim, SVG / PNG / PDF.
 
-![Komşuluk (LLDP/CDP)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/nbr.svg)
+![Komşuluk (LLDP/CDP)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/nbr.svg)
 
 ### Yol ve hız
 
@@ -76,7 +76,7 @@ Switch'ten switch'e keşif; port adları, LAG, yedi yerleşim, SVG / PNG / PDF.
 
 Ağ şeritleri, her atlamada kayıp ve gecikme, dünya haritası.
 
-![Traceroute / MTR](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/trace.svg)
+![Traceroute / MTR](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/trace.svg)
 
 <a id="t-speed"></a>
 
@@ -84,7 +84,7 @@ Ağ şeritleri, her atlamada kayıp ve gecikme, dünya haritası.
 
 İnternete ya da kendi sunucunuza indirme / yükleme ölçümü.
 
-![Hız testi](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/speed.svg)
+![Hız testi](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/speed.svg)
 
 <a id="t-wifi"></a>
 
@@ -92,7 +92,7 @@ Ağ şeritleri, her atlamada kayıp ve gecikme, dünya haritası.
 
 Sinyal ölçer, kanal görünümü ve kapsama haritası.
 
-![Wi-Fi](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/wifi.svg)
+![Wi-Fi](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/wifi.svg)
 
 <a id="t-download"></a>
 
@@ -100,7 +100,7 @@ Sinyal ölçer, kanal görünümü ve kapsama haritası.
 
 Paralel bağlantılı hızlı indirme, doğrudan İndirilenler klasörüne; SHA-256 doğrulama.
 
-![Dosya indirici](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/download.svg)
+![Dosya indirici](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/download.svg)
 
 <a id="t-mtu"></a>
 
@@ -108,7 +108,7 @@ Paralel bağlantılı hızlı indirme, doğrudan İndirilenler klasörüne; SHA-
 
 Parçalanmadan geçen en büyük paket; kara delik tespiti.
 
-![MTU bulma](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/mtu.svg)
+![MTU bulma](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/mtu.svg)
 
 ### DNS ve adres
 
@@ -118,7 +118,7 @@ Parçalanmadan geçen en büyük paket; kara delik tespiti.
 
 Kayıt türleri, birden çok sunucuyu yan yana karşılaştırma, DNSSEC, AXFR.
 
-![DNS sorgu](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/dns.svg)
+![DNS sorgu](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/dns.svg)
 
 <a id="t-whois"></a>
 
@@ -126,7 +126,7 @@ Kayıt türleri, birden çok sunucuyu yan yana karşılaştırma, DNSSEC, AXFR.
 
 RDAP ve klasik whois: kayıt şirketi, kişiler, AS, konum, ham kayıt.
 
-![Whois](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/whois.svg)
+![Whois](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/whois.svg)
 
 <a id="t-myip"></a>
 
@@ -134,7 +134,7 @@ RDAP ve klasik whois: kayıt şirketi, kişiler, AS, konum, ham kayıt.
 
 Genel adres, servis sağlayıcı ve DNS yönlendirmesinin tespiti.
 
-![Genel IP'm](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/myip.svg)
+![Genel IP'm](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/myip.svg)
 
 ### Web
 
@@ -144,7 +144,7 @@ Genel adres, servis sağlayıcı ve DNS yönlendirmesinin tespiti.
 
 Durum kodu, yönlendirme, güvenlik başlıkları ve ürün tahmini.
 
-![HTTP/HTTPS özeti](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/http.svg)
+![HTTP/HTTPS özeti](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/http.svg)
 
 <a id="t-curl"></a>
 
@@ -152,7 +152,7 @@ Durum kodu, yönlendirme, güvenlik başlıkları ve ürün tahmini.
 
 DNS, TCP, TLS, ilk bayt ayrı ayrı; JavaScript ile çalışan sayfalar da.
 
-![HTTP istek (curl)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/curl.svg)
+![HTTP istek (curl)](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/curl.svg)
 
 <a id="t-api"></a>
 
@@ -160,7 +160,7 @@ DNS, TCP, TLS, ilk bayt ayrı ayrı; JavaScript ile çalışan sayfalar da.
 
 Postman gibi, ama sade: koleksiyonlar, değişkenler, kimlik.
 
-![API istemcisi](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/api.svg)
+![API istemcisi](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/api.svg)
 
 <a id="t-cert"></a>
 
@@ -168,7 +168,7 @@ Postman gibi, ama sade: koleksiyonlar, değişkenler, kimlik.
 
 Zincir, bitiş tarihi, güven ve TLS sürümleri.
 
-![Sertifika](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/cert.svg)
+![Sertifika](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/cert.svg)
 
 <a id="t-ssl"></a>
 
@@ -176,7 +176,7 @@ Zincir, bitiş tarihi, güven ve TLS sürümleri.
 
 SSL Labs ölçütlerine yakın A+ … F notu ve nedenleri.
 
-![SSL denetimi](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/ssl.svg)
+![SSL denetimi](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/ssl.svg)
 
 ### Yönetim
 
@@ -186,7 +186,7 @@ SSL Labs ölçütlerine yakın A+ … F notu ve nedenleri.
 
 SSH / WinRM ile yüzlerce makinede komut; şablonlar, birden çok kimlik.
 
-![Toplu işlem](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/exec.svg)
+![Toplu işlem](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/exec.svg)
 
 <a id="t-mail"></a>
 
@@ -194,7 +194,7 @@ SSH / WinRM ile yüzlerce makinede komut; şablonlar, birden çok kimlik.
 
 SMTP, MX + SPF / DMARC, IMAP / POP3, deneme iletisi ve relay testi.
 
-![Mail](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/mail.svg)
+![Mail](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/mail.svg)
 
 <a id="t-snmp"></a>
 
@@ -202,7 +202,7 @@ SMTP, MX + SPF / DMARC, IMAP / POP3, deneme iletisi ve relay testi.
 
 Walk / get, v1–v3; yayın kipinde bilgisayar bir SNMP cihazı gibi yanıt verir.
 
-![SNMP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/snmp.svg)
+![SNMP](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/snmp.svg)
 
 <a id="t-syslog"></a>
 
@@ -210,7 +210,7 @@ Walk / get, v1–v3; yayın kipinde bilgisayar bir SNMP cihazı gibi yanıt veri
 
 İleti gönder ya da sunucu olup gelenleri dinle.
 
-![Syslog](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/syslog.svg)
+![Syslog](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/syslog.svg)
 
 <a id="t-send"></a>
 
@@ -218,7 +218,7 @@ Walk / get, v1–v3; yayın kipinde bilgisayar bir SNMP cihazı gibi yanıt veri
 
 TCP / UDP portuna mesaj gönder, yanıtı ya da gelenleri izle.
 
-![Port mesaj / dinle](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/send.svg)
+![Port mesaj / dinle](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/send.svg)
 
 <a id="t-capture"></a>
 
@@ -226,7 +226,7 @@ TCP / UDP portuna mesaj gönder, yanıtı ya da gelenleri izle.
 
 Npcap'siz hafif yakalama, protokol özeti ve pcap kaydı.
 
-![Paket yakalama](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/capture.svg)
+![Paket yakalama](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/capture.svg)
 
 <a id="t-wol"></a>
 
@@ -234,7 +234,7 @@ Npcap'siz hafif yakalama, protokol özeti ve pcap kaydı.
 
 Sihirli paketle uyandır, açılmasını ping ile izle.
 
-![Wake-on-LAN](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/wol.svg)
+![Wake-on-LAN](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/wol.svg)
 
 ### Hesap ve bilgi
 
@@ -244,7 +244,7 @@ Sihirli paketle uyandır, açılmasını ping ile izle.
 
 Ağ, yayın, kullanılabilir aralık, maske ve bölme.
 
-![Alt ağ hesap](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/subnet.svg)
+![Alt ağ hesap](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/subnet.svg)
 
 <a id="t-local"></a>
 
@@ -252,7 +252,7 @@ Ağ, yayın, kullanılabilir aralık, maske ve bölme.
 
 Arayüzler, adresler, ağ geçidi, DNS ve VPN.
 
-![Bu bilgisayar](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@d967be4a75b6/assets/screens/tr/local.svg)
+![Bu bilgisayar](https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@0b3486a5d5d7/assets/screens/tr/local.svg)
 
 ## Neden AdminsTools
 
@@ -265,7 +265,7 @@ Arayüzler, adresler, ağ geçidi, DNS ve VPN.
 
 ## İndir
 
-Sürüm 1.0.0 · Tek dosya: indirin ve çalıştırın. Ayarlar tek bir dosyada; exe'nin yanına `PowerAdminTool.json` koyarsanız USB bellekten taşınabilir çalışır.
+Sürüm 1.0.0 · Tek dosya: indirin ve çalıştırın. Ayarlar tek bir dosyada; exe'nin yanına `AdminsTools.json` koyarsanız USB bellekten taşınabilir çalışır.
 
 **Windows** — `AdminsTools-1.0.0.exe · ~16 MB`
 
